@@ -1,0 +1,15 @@
+Expressions - a dynamic value written by javascript ?
+
+Fixed - Value written with normal string?
+
+Variable selector - maybe when I select a data item and I drag to the modul configuration, i guese this operation is variables selector
+
+Webhook - Maybe it's an alignement opertaion between two tools that can be done through a link or something else I don't know
+
+JSON  - It's an output data formated between arrays.
+
+Configuration - Is the paramaters that each module has and it's editable 
+
+Authentication - is the permession access consent that service or the app you want to use 
+
+Binary data - I think it's like a data storage and each data has its type?
