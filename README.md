@@ -6,7 +6,7 @@
 * **Stack:** Make.com, Instagram for Business, Google Drive, Google Sheets, HTTP.
 * **Outcome:** Successfully built a 5-step automation that triggers on new Reels, logs the data, and archives the content, saving hours of manual work for a video creator.
 
-<img src="clip-to-drive.png" width="400"/>
+<img src="/Clip-To-Driver.png" width="400"/>
 
 
 ### Gmail → Sheets (Make.com)
